@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  I'm Saiprasad Benagi
 🔭 I’m currently working on<br>• Academic projects & coding practice as a BTech CSE (6th Semester) student<br>• Strengthening core computer science fundamentals through hands-on learning<br>👯 I’m looking to collaborate on<br>• Python / Java based software development projects<br>• Backend, data-driven, and system-oriented applications<br>🤝 I’m looking for help with<br>• System design fundamentals<br>• Writing scalable and maintainable code<br>🌱 I’m currently learning<br>• Compiler Design<br>• Object-Oriented Analysis & Design (OOAD)<br>• Cloud Computing<br>• Generative AI & Deep Learning fundamental<br>💬 Ask me about<br>• Core CSE subjects (DSA, DBMS, OS , CN , DA )<br>• Academic projects & learning roadmaps<br>⚡ Fun fact<br>• I enjoy breaking complex CS concepts into simple, intuitive logic
 
 
